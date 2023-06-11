@@ -29,4 +29,5 @@ Gem::Specification.new do |s|
   #s.add_development_dependency('mongoid', '~> 4.0')
 
   s.add_development_dependency('sidekiq', '3.2.1')
+  s.add_development_dependency('delayed_job', '>= 4.1')
 end
