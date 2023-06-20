@@ -1,3 +1,8 @@
+0.4.5
+----------
+
+* Add support for DelayedJob - @nunommc
+
 0.4.4
 -----
 * Implement support for polymorphic tenant
